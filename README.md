@@ -20,7 +20,7 @@ Adalo es una plataforma sin código (no-code) que permite crear aplicaciones web
 Adalo facilita la creación de aplicaciones funcionales sin la necesidad de aprender lenguajes complejos. Los desarrolladores pueden integrar su trabajo en plataformas como XAMPP para gestionar bases de datos y FlutterFlow para extender funcionalidades visualmente.
 
 #### Características de Adalo:
-- 🚀 Plataforma sin código con una interfaz visual.
+- 🚀 Plataforma con una interfaz visual.
 - 🛠️ Creación y gestión de bases de datos directamente en la aplicación.
 - 🔌 Integración con APIs externas.
 - 📱 Desarrollo de aplicaciones móviles y web de forma simultánea.
